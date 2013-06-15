@@ -468,7 +468,7 @@ stylesheet that goes along:
 Bonus: Refinements
 ------------------
 
-Look at the implementation in the example dictionary in the Werkzeug
+Look at the implementation in the *examples* directory in the Werkzeug
 repository to see a version of this tutorial with some small refinements
 such as a custom 404 page.
 
